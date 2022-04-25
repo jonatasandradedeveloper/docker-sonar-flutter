@@ -1,8 +1,10 @@
-## Instalando Docker no WINDOWS 
+## Instalando Docker no WINDOWS ou MAC 
 
 `1- Acessar o site abaixo e fazer o download da versão Beta que suporte a Container Windows;`
 
-<a>docs.docker.com/docker-for-windows</a>
+<a href="url">docs.docker.com/docker-for-windows</a>
+
+<a href="url">https://docs.docker.com/desktop/mac/</a>
 
 `2- Após o download executar a instalação, aceitar os Termos da Licença e Instalar.`
 
