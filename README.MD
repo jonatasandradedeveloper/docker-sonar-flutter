@@ -26,6 +26,7 @@
 
 ## Depois que a instalação foi feita
 `1- Criar uma pasta na raiz desse projeto, chamada sonar`
+
 `2- Na pasta sonnar criar 2 pastas chamadas data e extensions`
 
 `3- docker-compose up`
